@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+  background-color: black;
+  font-weight: normal;
+}
+
+.title h1 {
+  font-size: 50px;
+
+}
+
+.title a {
+  font-size: 16px;
+  color: aquamarine;
+}
